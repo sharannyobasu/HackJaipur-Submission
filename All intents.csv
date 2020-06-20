@@ -1,0 +1,297 @@
+Nice,Basic_answers
+I'm fine,Basic_answers
+I am fine,Basic_answers
+I am fit,Basic_answers
+I am good,Basic_answers
+Perfect,Basic_answers
+I'm alright,Basic_answers
+Good,Basic_answers
+Great,Basic_answers
+I am well,Basic_answers
+Fine,Basic_answers
+I am perfect,Basic_answers
+Alive,Basic_answers
+How do you do Eliza?,Basic_questions
+Hello how are you?,Basic_questions
+Hello Eliza. How are you?,Basic_questions
+HYow do you do?,Basic_questions
+How are you Eliza?,Basic_questions
+Oh okay,Basic_text
+Hm,Basic_text
+I see,Basic_text
+Hmm,Basic_text
+Oh I see,Basic_text
+Oh,Basic_text
+Hm okay,Basic_text
+Okay,Basic_text
+Hm ok,Basic_text
+Coronavirus detection,Coronavirus_detect
+I want to test if I have corona,Coronavirus_detect
+Coronavirus test,Coronavirus_detect
+How to check if I have coronavirus?,Coronavirus_detect
+Do I have coronavirus?,Coronavirus_detect
+Do I have corona,Coronavirus_detect
+Do I have coronavirus or not,Coronavirus_detect
+I want to test for coronavirus...,Coronavirus_detect
+Corona risk scanner,Coronavirus_detect
+Covid 19 risk scanner,Coronavirus_detect
+Do I have Coronavirus??,Coronavirus_detect
+Corona risk detection,Coronavirus_detect
+Coronavirus risk scanner,Coronavirus_detect
+Do I have covid19?,Coronavirus_detect
+Corona test,Coronavirus_detect
+I want to test for coronavirus,Coronavirus_detect
+I want to test for corona,Coronavirus_detect
+Coronavirus cases in Switzerland,COVID-19_Data
+Coronavirus cases in Uk,COVID-19_Data
+Coronavirus cases in Italy,COVID-19_Data
+Coronavirus cases in Spain,COVID-19_Data
+Coronavirus cases in Turkey,COVID-19_Data
+Coronavirus cases in United Kingdom,COVID-19_Data
+Coronavirus cases in US,COVID-19_Data
+Coronavirus cases in Portugal,COVID-19_Data
+Covid-19 cases in India,COVID-19_Data
+Covid-19 cases in Spain,COVID-19_Data
+Covid-19 cases in Malaysia,COVID-19_Data
+Covid-19 cases in Portugal,COVID-19_Data
+Covid-19 cases in UK,COVID-19_Data
+Coronavirus cases in Germany,COVID-19_Data
+Covid-19 cases in China,COVID-19_Data
+Covid-19 cases in Australia,COVID-19_Data
+Covid-19 cases in Germany,COVID-19_Data
+Covid-19 cases in USA,COVID-19_Data
+Coronavirus cases in usa,COVID-19_Data
+Coronavirus cases in China,COVID-19_Data
+Covid-19 cases in US,COVID-19_Data
+Covid-19 cases in United Kingdom,COVID-19_Data
+Coronavirus cases in Pakistan,COVID-19_Data
+Coronavirus cases in Australia,COVID-19_Data
+Coronavirus cases in India,COVID-19_Data
+How many coronavirus cases are there in my country?,COVID-19_GeneralData
+Coronavirus deaths by country,COVID-19_GeneralData
+Coronavirus cases worldwide,COVID-19_GeneralData
+Covid 19 cases in my country,COVID-19_GeneralData
+Coronavirus cases,COVID-19_GeneralData
+Coronavirus deaths,COVID-19_GeneralData
+Coronavirus deaths in my state,COVID-19_GeneralData
+Coronavirus cases in my state,COVID-19_GeneralData
+Covid19 cases in my state,COVID-19_GeneralData
+Covid 19 deaths,COVID-19_GeneralData
+Covid 19 cases,COVID-19_GeneralData
+Total number of deaths in my country due to coronavirus,COVID-19_GeneralData
+Cases of coronavirus by country,COVID-19_GeneralData
+Cases of covid 19,COVID-19_GeneralData
+How many covid-19 cases are there in my country?,COVID-19_GeneralData
+How many covid cases are there in my country?,COVID-19_GeneralData
+How many novel coronavirus cases are there in my country?,COVID-19_GeneralData
+Coronavirus cases here,COVID-19_GeneralData
+India,COVID-19_GeneralData
+What are the total number of deaths caused by coronavirus?,COVID-19_GeneralData
+China,COVID-19_GeneralData
+Coronavirus symptoms,COVID19_Symptoms
+Symptoms of coronavirus,COVID19_Symptoms
+Please tell me the symptoms of coronavirus,COVID19_Symptoms
+What are the symptoms of Novel Coronavirus?,COVID19_Symptoms
+Symptoms of coronavirus?,COVID19_Symptoms
+What are the symptoms of Covid-19?,COVID19_Symptoms
+What are the symptoms of Coronavirus?,COVID19_Symptoms
+Do I have coronavirus?,COVID19_Symptoms
+Symptoms of Corona Virus in India,COVID19_Symptoms
+What are the symptoms od coronavirus?,COVID19_Symptoms
+Tell me the symptoms of coronavirus,COVID19_Symptoms
+Covid19 symptoms?,COVID19_Symptoms
+Covid19 symptoms,COVID19_Symptoms
+Indications of coronavirus,COVID19_Symptoms
+I need to know the symptoms of coronavirus,COVID19_Symptoms
+How many cases of COVID-19 are in the US?,Covid_Case_Count
+Does India have a confirmed COVID case?,Covid_Case_Count
+Are there any cases near me?,Covid_Case_Count
+How many cases of the virus are there in the world?,Covid_Case_Count
+Where are cases?,Covid_Case_Count
+what is the count of coronavirus infected people?,Covid_Case_Count
+is anyone near me sick,Covid_Case_Count
+how many people are sick in the US?,Covid_Case_Count
+how many people are infected in the us?,Covid_Case_Count
+How many coronavirus cases are there in my area?,Covid_Case_Count
+covid number in my state?,Covid_Case_Count
+Does the US have a confirmed COVID case?,Covid_Case_Count
+has anyone died of coronavirus in my state?,Covid_Case_Count
+Does alcohol kill the coronavirus?,Covid_Cleaning_Disinfecting
+Do I need lysol wipes?,Covid_Cleaning_Disinfecting
+How often do I need to clean my home to prevent the spread of coronavirus?,Covid_Cleaning_Disinfecting
+"All the stores are out of disinfecting wipes, what do I do?",Covid_Cleaning_Disinfecting
+Are there disinfectants available that can inactivate (kill) COVID-19?,Covid_Cleaning_Disinfecting
+Do I have to use bleach to kill coronavirus?,Covid_Cleaning_Disinfecting
+Should I spray myself or my kids with disinfectant?,Covid_Cleaning_Disinfecting
+What cleaning methods kill the coronavirus?,Covid_Cleaning_Disinfecting
+Whats the difference between cleaning and disinfecting?,Covid_Cleaning_Disinfecting
+how do i get rid of germs at my home,Covid_Cleaning_Disinfecting
+How do I clean my home properly?,Covid_Cleaning_Disinfecting
+What is COVID-19?,Covid_Description
+what is novel coronavirus?,Covid_Description
+what is the coronavirus?,Covid_Description
+Where did the coronavirus come from?,Covid_Description
+How is COVID-19 spread?,Covid_Description
+How dangerous is this?,Covid_Description
+Has the cause of COVID-19 been identified?,Covid_Description
+Corona Virus,Covid_Description
+Coronavirus,Covid_Description
+OVID19,Covid_Description
+COVID-19,Covid_Description
+Caronavirus,Covid_Description
+Tell me about Corona Virud,Covid_Description
+What sports are being cancelled?,Covid_Event_Shutdowns
+When will the NCAA championships be held?,Covid_Event_Shutdowns
+When will the NHL return?,Covid_Event_Shutdowns
+Should I feel safe going to the movies?,Covid_Event_Shutdowns
+How do I know if my concert is cancelled?,Covid_Event_Shutdowns
+Are groups of people allowed to meet?,Covid_Event_Shutdowns
+Are events being shut down?,Covid_Event_Shutdowns
+events and large gatherings,Covid_Event_Shutdowns
+Will I get a refund for a ticket I purchased?,Covid_Event_Shutdowns
+Why is the government shutting down my event?,Covid_Event_Shutdowns
+What is the maximum number of people allowed to meet right now?,Covid_Event_Shutdowns
+Corona virus prevention,Covid_Protecting_Against_Infection
+How do I prevent myself from getting sick?,Covid_Protecting_Against_Infection
+How often should I wash my hands?,Covid_Protecting_Against_Infection
+How to prevent coronavirus,Covid_Protecting_Against_Infection
+Coronavirus prevention,Covid_Protecting_Against_Infection
+Coronavirus prevention tips,Covid_Protecting_Against_Infection
+How to avoid coronavirus,Covid_Protecting_Against_Infection
+How to prevent covid-19 disease spread,Covid_Protecting_Against_Infection
+How to prevent covid19,Covid_Protecting_Against_Infection
+How to prevent corona,Covid_Protecting_Against_Infection
+Prevention tips of coronavirus,Covid_Protecting_Against_Infection
+Do I need to wear a face mask?,Covid_Protecting_Against_Infection
+How to Prevent the Spread of the Virus,Covid_Protecting_Against_Infection
+What’s the best way to prevent coronavirus?,Covid_Protecting_Against_Infection
+How do I protect myself?,Covid_Protecting_Against_Infection
+how do I ensure my family is safe?,Covid_Protecting_Against_Infection
+How do I avoid covid-19?,Covid_Protecting_Against_Infection
+what should i do to contain the spread of the virus,Covid_Protecting_Against_Infection
+prevent the spread of the virus,Covid_Protecting_Against_Infection
+How can I protect my family from the spread of coronavirus?,Covid_Protecting_Against_Infection
+Is it even possible to avoid the virus?,Covid_Protecting_Against_Infection
+how to stop coronavirus,Covid_Protecting_Against_Infection
+When will the schools open?,Covid_School_Shutdown
+Can my child go to school?,Covid_School_Shutdown
+Are schools shut down?,Covid_School_Shutdown
+How can I get the latest news on my school closure?,Covid_School_Shutdown
+How will the shutdown impact my child's attendance records?,Covid_School_Shutdown
+are schools open?,Covid_School_Shutdown
+Should my child stay home from school?,Covid_School_Shutdown
+What does the ordered school closure mean for report cards?,Covid_School_Shutdown
+What happens after the ordered three-week closure period ends?,Covid_School_Shutdown
+Will students still graduate this year?,Covid_School_Shutdown
+What are symptoms?,Covid_Symptoms
+should I get tested if I have a cough?,Covid_Symptoms
+should i get tested,Covid_Symptoms
+I traveled to Italy recently. What do I do?,Covid_Symptoms
+I think I'm infected,Covid_Symptoms
+I think I might have the virus.,Covid_Symptoms
+I have travled recently. What do I do?,Covid_Symptoms
+How do i know if I'm sick,Covid_Symptoms
+Do I need to get tested?,Covid_Symptoms
+am i sick,Covid_Symptoms
+Where can I get tested?,Covid_Testing_Locations
+Can I get tested at my doctors?,Covid_Testing_Locations
+testing spots for coronavirus?,Covid_Testing_Locations
+testing locations?,Covid_Testing_Locations
+How do I get tested?,Covid_Testing_Locations
+Can I test myself at my house?,Covid_Testing_Locations
+Can I get tested at Walgreens?,Covid_Testing_Locations
+My doctor hasn't given me my test results back yet.,Covid_Testing_Results
+How can I get my test results?,Covid_Testing_Results
+Do my test results come in the mail?,Covid_Testing_Results
+Who will give me my COVID test results?,Covid_Testing_Results
+When can I get my results?,Covid_Testing_Results
+test outcomes?,Covid_Testing_Results
+Its been a week. Who can I call to get my test results?,Covid_Testing_Results
+Is it safe to fly to Seattle?,Covid_Travel_Restrictions
+I just travelled. What do I do?,Covid_Travel_Restrictions
+do i need to stay home,Covid_Travel_Restrictions
+Do I need a doctor's note to travel?,Covid_Travel_Restrictions
+Can I travel?,Covid_Travel_Restrictions
+Are there any travel restrictions in place yet?,Covid_Travel_Restrictions
+What if I urgently need to take a flight?,Covid_Travel_Restrictions
+Should I cancel my flight to Denver?,Covid_Travel_Restrictions
+Yashi,Desi_names
+Murli,Desi_names
+Yashaswi,Desi_names
+Pranjul,Desi_names
+Donation contribution,Donate
+fund Donation,Donate
+Donate to PM cares fund,Donate
+Donate money,Donate
+donate,Donate
+Donate money for coronavirus,Donate
+Donate money to relief fund,Donate
+PM Cares donation,Donate
+Donate money to coronvirus relief fund,Donate
+Contribute money to pm cares fund,Donate
+Contribute to pm cares,Donate
+Contribute to pm cares fund,Donate
+Fund contribution,Donate
+Donate to pm cares,Donate
+donation,Donate
+Thank you for your help,goodbye
+have a nice day,goodbye
+Bye,goodbye
+Gn,goodbye
+Thanks for helping. Bye,goodbye
+Ok thanks,goodbye
+Bye for now,goodbye
+Goodbye,goodbye
+Thanks,goodbye
+Ok bye,goodbye
+ttyl,goodbye
+Good evening,Greetings
+Hello I need help,Greetings
+Hello please can you help me,Greetings
+Hello there,Greetings
+Help me,Greetings
+Hello please can you help me?,Greetings
+Good morning,Greetings
+I want help,Greetings
+Please help me,Greetings
+Hello,Greetings
+I need help,Greetings
+Hi,Greetings
+How will I know if I have Coronavirus or not?,How_will_i_know
+How to detect if I have coronavirus?,How_will_i_know
+Who is Cristiano Ronaldo?,tell_me_about
+Tell me about Narendra Modi,tell_me_about
+Who is Narendra Modi?,tell_me_about
+Kolkata,tell_me_about
+Tell me about Cristiano Ronaldo,tell_me_about
+Wjhat is a virus?,tell_me_about
+What is Coronvirus?,tell_me_about
+Tell me about Virus,tell_me_about
+Tell me about Hantavirus,tell_me_about
+Tell me about Coronavirus,tell_me_about
+What is China?,tell_me_about
+What is a tsunami?,tell_me_about
+Footballer gareth bale,tell_me_about
+Leo Messi,tell_me_about
+Mumbai,tell_me_about
+Tell me about Kolkata Knight Riders,tell_me_about
+What is hantavirus?,tell_me_about
+Debi Prasad Sarkar Wikipedia,tell_me_about
+Tell me about Newton's third law,tell_me_about
+Thanks for helping,Thanks
+I appreciate that,Thanks
+Thank you,Thanks
+Thank,Thanks
+Thanks,Thanks
+Cheers !,Thanks
+Thx,Thanks
+Ok,Thanks
+Tq,Thanks
+Thanq,Thanks
+Gracias,Thanks
+Thanking you,Thanks
+Thank you so much,Thanks
+Ok thanks,Thanks
+Thank you for helping,Thanks
+Thanks !,Thanks
+Thnx,Thanks
